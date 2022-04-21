@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Post",
+    "path": "/Post",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\twitter_front\\\\pages\\\\Post.vue",
+    "chunkName": "pages/Post"
+  },
+  {
+    "name": "Profile",
+    "path": "/Profile",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\twitter_front\\\\pages\\\\Profile.vue",
+    "chunkName": "pages/Profile"
+  },
+  {
+    "name": "Register",
+    "path": "/Register",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\twitter_front\\\\pages\\\\Register.vue",
+    "chunkName": "pages/Register"
+  },
+  {
+    "name": "postpage-id",
+    "path": "/postpage/:id?",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\twitter_front\\\\pages\\\\postpage\\\\_id.vue",
+    "chunkName": "pages/postpage/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\twitter_front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
